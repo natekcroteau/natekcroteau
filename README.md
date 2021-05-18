@@ -1,4 +1,5 @@
-### Hi there 👋
+![Nate Croteau](https://user-images.githubusercontent.com/74217526/118699676-0b433800-b7cf-11eb-9fbc-a486b72d2fbb.png)
+
 
 <!--
 **natekcroteau/natekcroteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
