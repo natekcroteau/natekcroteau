@@ -1,4 +1,4 @@
-![Nate Croteau](https://user-images.githubusercontent.com/74217526/118699676-0b433800-b7cf-11eb-9fbc-a486b72d2fbb.png)
+![Nate Croteau](![Nate Croteau](https://user-images.githubusercontent.com/74217526/119541030-58815580-bd4b-11eb-96fd-b6b9cf57b876.png)
 
 
 <!--
